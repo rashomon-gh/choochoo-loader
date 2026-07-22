@@ -6,14 +6,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChooChooEngine.App", "ChooC
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DE4E9A9B-C2D7-4F0C-AE5B-3B8F48F4AE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DE4E9A9B-C2D7-4F0C-AE5B-3B8F48F4AE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DE4E9A9B-C2D7-4F0C-AE5B-3B8F48F4AE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DE4E9A9B-C2D7-4F0C-AE5B-3B8F48F4AE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE4E9A9B-C2D7-4F0C-AE5B-3B8F48F4AE7A}.Debug|x64.ActiveCfg = Debug|x64
+		{DE4E9A9B-C2D7-4F0C-AE5B-3B8F48F4AE7A}.Debug|x64.Build.0 = Debug|x64
+		{DE4E9A9B-C2D7-4F0C-AE5B-3B8F48F4AE7A}.Release|x64.ActiveCfg = Release|x64
+		{DE4E9A9B-C2D7-4F0C-AE5B-3B8F48F4AE7A}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
